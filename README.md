@@ -1,21 +1,33 @@
-My Portfolio Website
-Welcome to my portfolio website! This website showcases my projects, skills, and experiences, built using only HTML and CSS for a clean and responsive design.
+# My Portfolio Website
 
-Table of Contents
-About
-Features
-Technologies Used
+Welcome to my portfolio website! This website showcases my projects, skills, and experiences, built using only **HTML** and **CSS** for a clean and responsive design.  
 
-About
-This is a simple, responsive portfolio website designed to showcase my skills and projects. It is built using only HTML and CSS to demonstrate clean and efficient code while maintaining a modern look.
+---
 
-Features
-Responsive design for all devices
-Clean and minimalistic layout
-Project showcase with descriptions
-About Me section
-Contact form (non-functional, for design purposes)
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
 
-Technologies Used
-HTML - For the structure and content
-CSS - For styling and layout
+---
+
+## About
+
+This is a simple, responsive portfolio website designed to showcase my skills and projects. It uses only HTML and CSS to demonstrate clean and efficient code while maintaining a modern look.
+
+---
+
+## Features
+
+- 📱 **Responsive design** for all devices  
+- ✨ **Clean and minimalistic layout**  
+- 🎨 **Project showcase** with descriptions  
+- 🧑‍💼 **About Me section**  
+- ✉️ **Contact form** (non-functional, for design purposes)
+
+---
+
+## Technologies Used
+
+- **HTML** - For the structure and content  
+- **CSS** - For styling and layout  
